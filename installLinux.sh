@@ -23,6 +23,7 @@
 #
 ## ros-package
 #sudo apt-get install ros-indigo-turtlebot-gazebo;
+#sudo apt-get install ros-indigo-turtlebot-*
 #
 ## pip
 #sudo apt-get install python-pip;
